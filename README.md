@@ -7,8 +7,6 @@ Inside your local git repository, create a directory for both of the  Python Cha
 Inside of each folder that you just created, add a new file called main.py. This will be the main script to run for each analysis.
 Push the above changes to GitHub.
 
-
-
 # PyBank
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
@@ -24,7 +22,7 @@ As an example, your analysis should look similar to the one below:
 
 
   Financial Analysis
-  _____
+  
   Total Months: 86
   Total: $38382578
   Average  Change: $-2315.12
@@ -49,14 +47,14 @@ The winner of the election based on popular vote.
 As an example, your analysis should look similar to the one below:
 
   Election Results
-  _____
+  
   Total Votes: 3521001
-  _____
+  
   Khan: 63.000% (2218231)
   Correy: 20.000% (704200)
   Li: 14.000% (492940)
   O'Tooley: 3.000% (105630)
-  ____
+  
   Winner: Khan
   
 
