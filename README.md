@@ -24,7 +24,7 @@ As an example, your analysis should look similar to the one below:
 
 
   Financial Analysis
-  *************************
+  _____
   Total Months: 86
   Total: $38382578
   Average  Change: $-2315.12
@@ -49,18 +49,19 @@ The winner of the election based on popular vote.
 As an example, your analysis should look similar to the one below:
 
   Election Results
-  *************************
+  _____
   Total Votes: 3521001
-  *************************
+  _____
   Khan: 63.000% (2218231)
   Correy: 20.000% (704200)
   Li: 14.000% (492940)
   O'Tooley: 3.000% (105630)
-  *************************
+  ____
   Winner: Khan
-  *************************
+  
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
+***************************
 # Copyright
 Trilogy Education Services © 2018. All Rights Reserved.
