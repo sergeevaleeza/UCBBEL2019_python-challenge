@@ -61,5 +61,5 @@ As an example, your analysis should look similar to the one below:
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
 ***************************
-# Copyright
+### Copyright
 Trilogy Education Services © 2018. All Rights Reserved.
